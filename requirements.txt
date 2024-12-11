@@ -1,0 +1,4 @@
+colorama==0.4.6
+pillow==11.0.0
+PyMySQL==1.1.1
+qrcode==8.0
